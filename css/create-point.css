@@ -1,5 +1,5 @@
 #page-create-point {
-    width: 90px;
+    width: 90%;
     max-width: 1100px;
     margin: 0 auto;
 }
@@ -29,5 +29,10 @@
 
 form {
     background-color: white;
-    padding: 64px;
+
+    margin: 80px auto;
+    padding: 64px;  /*preencimento*/
+    
+    border-radius: 8px;
+    max-width: 730px;
 }

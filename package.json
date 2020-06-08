@@ -9,5 +9,19 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "version": "1.0.0",
+  "main": "/src/server.js", 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murdock18/app-next-level-week.git"
+  },
+  "keywords": [],
+  "author": "Paulo César Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murdock18/app-next-level-week/issues"
+  },
+  "homepage": "https://github.com/murdock18/app-next-level-week#readme",
+  "description": ""
 }
